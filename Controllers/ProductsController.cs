@@ -2,9 +2,9 @@
 
 namespace AspNetWebApp.Controllers
 {
-    public class ProductsController : Controller
+    public class UserController : Controller
     {
-        public IActionResult List()
+        public IActionResult Index()
         {
             return View();
         }

@@ -1,21 +1,49 @@
-# ASP.NET MVC Products Demo
+Ôªø# ASP.NET MVC Products Demo
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-# ASP.NET MVC Products Demo
+# ASP.NET Core MVC ‚Äì User Listing
 
-## DescriÁ„o
-Projeto de demonstraÁ„o em **ASP.NET MVC** com `ProductsController` e `List View`.  
-Feito para portfÛlio e entrevistas, mostrando conhecimento em C#, .NET e MVC.
+This project is a simple ASP.NET Core MVC application created for study and interview preparation purposes.
 
-## Tecnologias
-- ASP.NET MVC
+## üìå Features
+
+- ASP.NET Core MVC structure
+- User model
+- User controller with Index action
+- View using Razor syntax
+- Clean folder organization following MVC conventions
+
+## üß† Purpose
+
+The main goal of this project is to demonstrate understanding of:
+- MVC architecture
+- Controllers and actions
+- Models
+- Views and Razor
+- Project organization
+
+## üöÄ Technologies
+
+- .NET 6 / .NET 7
+- ASP.NET Core MVC
 - C#
-- .NET
-- Visual Studio
+- Razor Views
 
-## Como rodar
-1. Abra a soluÁ„o `AspNetWebApp.sln` no Visual Studio.
-2. Clique em **Run (Ctrl + F5)**.
-3. Navegue atÈ `/Products/List` para ver a lista de produtos.
+## üìÇ Project Structure
+
+Models/
+Controllers/
+Views/
+
+## ‚ñ∂Ô∏è How to Run
+
+1. Clone the repository
+2. Open the solution in Visual Studio
+3. Run the project
+4. Access `/User/Index` in the browser
+
+---
+
+This project is intentionally simple and focused on fundamentals.
